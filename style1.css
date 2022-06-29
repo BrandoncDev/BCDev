@@ -380,3 +380,67 @@ line-height: 90px;
   color: black;
   background: white;
 }
+.text-center{
+  display: flex;
+  position: absolute;
+  left: 40%;
+  align-items: center;
+  justify-content: center;
+  top: 45vh;
+}
+.song{
+  display: flex;
+  position: absolute;
+  left: 15%;
+  align-items: center;
+  justify-content: center;
+  top: 60vh;
+}
+.song-txt{
+  display: flex;
+  position: absolute;
+  left: 20%;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  top: 55vh;
+}
+.book{
+  display: flex;
+  position: absolute;
+  left: 40%;
+  align-items: center;
+  justify-content: center;
+  top: 60vh;
+}
+.book-txt{
+  display: flex;
+  position: absolute;
+  left: 45%;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  top: 55vh;
+}
+.game{
+  display: flex;
+  position: absolute;
+  left: 65%;
+  align-items: center;
+  justify-content: center;
+  top: 60vh;
+}
+.game-txt{
+  display: flex;
+  position: absolute;
+  left: 70%;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  top: 55vh;
+}
+.bbpic{
+  position: absolute;
+  top: 8vh;
+  left: 30%
+}
